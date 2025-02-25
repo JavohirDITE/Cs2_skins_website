@@ -9,7 +9,7 @@
         "port": 3306
     },
     "HOST": "https://cs2-skins-website.onrender.com",
-    "PROTOCOL": "https",
+    "PROTOCOL": "",
     "PORT": 27275,
     "INTERNAL_HOST": "0.0.0.0",
     "STEAMAPIKEY": "EF4BBA3B6D8F2E4405C02C69116EF166",
