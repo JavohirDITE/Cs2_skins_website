@@ -1,0 +1,24 @@
+{
+    "name": "Title of your website",
+    "lang": "ru", 
+    "DB": {
+        "host": "sql12.freesqldatabase.com",
+        "user": "sql12764518",
+        "password": "17iv3W1h3a",
+        "database": "tasql12764518ble",
+        "port": 3306
+    },
+    "HOST": "example.com or localhost/127.0.0.1",
+    "PROTOCOL": "https",
+    "PORT": 27275,
+    "INTERNAL_HOST": "0.0.0.0",
+    "STEAMAPIKEY": "Your Steam Web API Key",
+    "SESSION_SECRET": "Some random and secure string containing letters, numbers and special characters like !@#$%^&*(). Atleast 32 chars long.",
+    "connect": {
+        "show": false,
+        "serverIp": "Server IP",
+        "serverPort": "Server Port",
+        "serverPassword": "Server Password"
+    },
+    "LOG_LEVEL": "info"
+}
