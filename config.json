@@ -6,7 +6,7 @@
         "user": "cs2user",
         "password": "9007161",
         "database": "cs2skins",
-        "port": 3306
+        "port": 31445
     },
     "HOST": "https://cs2-skins-website.onrender.com",
     "PROTOCOL": "",
