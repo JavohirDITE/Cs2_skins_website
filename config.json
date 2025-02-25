@@ -5,7 +5,7 @@
         "host": "sql12.freesqldatabase.com",
         "user": "sql12764518",
         "password": "17iv3W1h3a",
-        "database": "tasql12764518ble",
+        "database": "sql12764518",
         "port": 3306
     },
     "HOST": "example.com or localhost/127.0.0.1",
