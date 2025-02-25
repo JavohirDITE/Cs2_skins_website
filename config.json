@@ -8,8 +8,8 @@
         "database": "cs2server",
         "port": 3306
     },
-    "HOST": "https://cs2-skins-website.onrender.com",
-    "PROTOCOL": "https:",
+    "HOST": "cs2-skins-website.onrender.com",
+    "PROTOCOL": "https",
     "PORT": 27275,
     "INTERNAL_HOST": "0.0.0.0",
     "STEAMAPIKEY": "6A46511A20DF1E64811AC79A84CCCFD5",
