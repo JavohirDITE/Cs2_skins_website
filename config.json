@@ -2,7 +2,7 @@
     "name": "Title of your website",
     "lang": "ru", 
     "DB": {
-        "host": "cs2server.clo8ieui63lj.eu-central-1.rds.amazonaws.com",
+        "host": "cs2server.clo8eiu6i53l.eu-central-1.rds.amazonaws.com",
         "user": "cs2user",
         "password": "9007161zhavokhir",
         "database": "cs2server",
